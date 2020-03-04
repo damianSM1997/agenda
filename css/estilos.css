@@ -1,0 +1,65 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color: #fff;
+    padding: 30px;
+}
+
+h2{
+    color: #666;
+    padding: 20px;
+}
+#inicio{
+    background: url(../img/fondo.jpg) no-repeat center fixed;
+    padding: 50px 0px 50px 0px;
+    text-align: center;
+}
+
+#inicio #form{
+    background: #fff;
+    width: 300px;
+    padding: 20px 0px 20px 0px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+#inicio #form input{
+    
+    margin-bottom: 10px;
+    height: 30px;
+    width: 90%;
+}
+
+#inicio table{
+    width: 700px;
+    margin: auto;
+   background: #fff;
+}
+
+#inicio table thead td{
+    background:  #777;
+    color: cornsilk;
+}
+
+#inicio table td{   
+    padding: 5px;
+}
+
+#inicio  a{
+    text-decoration: none;
+    background: #4169E1;
+    color: #fff;
+    padding: 5px;
+}
+
+#inicio table tbody tr:hover{
+    background: #46f;
+    color: #fff;
+}
+
+
